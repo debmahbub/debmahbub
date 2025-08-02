@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Md. Mahbubur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Full Stack Web Developer | WordPress Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmahbub&label=Profile%20views&color=0e75b6&style=flat" alt="devmahbub" /> </p>
 
